@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9c6f030435ef8cc4b8deb84c65399ad4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'a Area Kilometer 50 '
+  fontNames:
+  - 'a Area Kilometer 50 '
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8350a33a302cd544f9732224940ee6f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
